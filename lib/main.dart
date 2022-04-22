@@ -54,7 +54,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Sliders & Indicators'),
+        title: const Text('Pop Menu button'),
       ),
       body: Container(
         padding: const EdgeInsets.all(32.0),
